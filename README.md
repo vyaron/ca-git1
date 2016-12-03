@@ -1,4 +1,4 @@
-Touch the numbers game
+# Touch the numbers game
 
 Using a collection of utility functions
 
